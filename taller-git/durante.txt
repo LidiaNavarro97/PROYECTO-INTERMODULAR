@@ -1,0 +1,4 @@
+este fichero se ha escrito mientras el resto de compañeros estaban trabajando en login
+
+- no podemos olvidar lo importante que es lo q estoy haciendo en la rama login
+
